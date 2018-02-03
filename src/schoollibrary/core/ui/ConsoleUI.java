@@ -45,7 +45,10 @@ public class ConsoleUI implements UI {
           break;
       }
     }
-    System.out.println("\nFirts task:\n" + library.getListOfItemsAsString(TypeOfItem.JOURNAL));
+    System.out.println("\nFirts task:\n" + library.getListOfItemsAsString(TypeOfItem.BOOK) + "\n" +
+        library.getListOfItemsAsString(TypeOfItem.ARTICLE) + "\n" +
+        library.getListOfItemsAsString(TypeOfItem.JOURNAL) + "\n" +
+        library.getListOfItemsAsString(TypeOfItem.NEWSPAPER));
     System.out.println("\nSecond task:\n" + library.secondTaskString());
     System.out.println("\nThird task:\n" + library.thirdTaskString());
   }
