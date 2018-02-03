@@ -1,0 +1,23 @@
+Wall Street Journal; Journal
+War and Peace; Book
+Being and Time; Book
+Popular Mechanics; Journal
+Ito Calculus; Article
+Hands; Journal
+Fahrenheit 451; Book
+Cosmopolitan; Journal
+Komsomol'skaya Truth; Newspaper
+Belarus Today; Newspaper
+Introduction to Queueing Theory; Article
+1001 Crosswords; Newspaper
+---
+Vasia: 17.01.1998: 2, 7
+Valery: 17.01.1998: 3, 5
+Lisa: 01.12.1999:
+Alex: 10.03.1997: 1, 4, 11
+Victor: 03.10.1997: 2, 3, 10
+Stasis: 26.05.1997: 6, 7
+Ivan: 06.04.1998: 6, 7
+Svetlana: 02.03.2000: 8
+Anastasia: 26.04.1999:
+Olga: 17.01.1998:
